@@ -3,6 +3,9 @@
 
 [The Rick and Morty API](https://rickandmortyapi.com) is a RESTful and GraphQL API based on the television show [Rick and Morty](https://www.adultswim.com/videos/rick-and-morty). You will access to data about hundreds of characters, images, locations and episodes. The Rick and Morty API is filled with canonical information as seen on the TV show.
 
+## Link 
+https://rick-morty-api-react-app.netlify.app/
+
 ## Getting Started
 
 **Check out the [documentation](https://rickandmortyapi.com/documentation) to get started**
@@ -34,6 +37,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 
 
